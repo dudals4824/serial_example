@@ -66,4 +66,4 @@ void loop() {
 
 ```
 ## 연결도
-![Arduino-BLE모듈 연결](C:/Users/dut48/Documents/Arduino/arduino-ble.jpg)
+![Arduino-BLE모듈 연결]("./image/arduino-ble.jpg")
