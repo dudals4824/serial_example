@@ -48,7 +48,7 @@ void loop() {
           }
         iter = 0;
       }
-    
+
     if (myString.equalsIgnoreCase(LED_OFF_CMD)){
         digitalWrite(LED_BUILTIN, LOW);
         delay(10000);
@@ -65,3 +65,5 @@ void loop() {
 }
 
 ```
+## 연결도
+![Arduino-BLE모듈 연결]("C:\Users\dut48\Documents\Arduino\arduino-ble.jpg")
